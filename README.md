@@ -52,7 +52,7 @@ This framework implements four distinct portfolio construction strategies and ev
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/kvyns/quantitative-portfolio-backtesting
    cd portfolio-analysis/final
    ```
 
@@ -139,7 +139,7 @@ The script automatically:
 - Covariance regularization for stability
 - May exhibit high volatility in some windows
 
-### 3. Equal-Weighted (EW)
+### 3. Equal-Weighted (EW) ⚖️
 **Objective:** Naive diversification  
 **Formulation:** w_i = 1/N for all stocks  
 **Method:** Simple allocation (no optimization)
