@@ -51,10 +51,10 @@ This framework implements four distinct portfolio construction strategies and ev
 ### Setup Instructions
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/kvyns/quantitative-portfolio-backtesting
-   cd portfolio-analysis/final
-   ```
+
+```bash
+git clone https://github.com/kvyns/quantitative-portfolio-backtesting
+```
 
 2. **Create virtual environment (recommended)**
    ```bash
